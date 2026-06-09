@@ -2,7 +2,6 @@
 
 Proyek ini adalah implementasi game **RPG Battle System berbasis Turn-Based** yang dikembangkan menggunakan **Java Plain (Desktop Swing)** dengan penerapan maksimal konsep dan prinsip Pemrograman Berorientasi Objek (PBO/OOP). 
 
-Desain dan cara kerja antarmuka (GUI) game ini dirancang menyerupai dan mengadopsi mekanisme dari prototipe web [rpg_battle_prototype.html](file:///c:/vscd/SMT%204/pebeo/rpg_battle_prototype.html).
 
 ---
 
